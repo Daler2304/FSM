@@ -27,9 +27,9 @@ void FSM::checkString(string& text) {
     }
 
     if (currentState == state[2]) {
-        cout << "Строка содержит 11" << endl;
+        cout << "the string contains 11" << endl;
     }
     else {
-        cout << "Строка не содержит 11" << endl;
+        cout << "The string does not contain 11" << endl;
     }
 }
