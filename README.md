@@ -17,12 +17,7 @@
     </ul>
     <h2>Зависимости</h2>
     <p>Библиотека <code>jsoncpp</code> для работы с JSON-файлами. Установите её, используя инструкции по установке вашего пакетного менеджера.</p>
-    <h2>Сборка</h2>
-    <p>Для сборки проекта выполните следующие шаги:</p>
-    <pre><code>g++ -o main FSM.cpp main.cpp -ljsoncpp</code></pre>
     <h2>Автор</h2>
-    <p>Автор: Daler Sirozhidinov</p>
-    <h2>Лицензия</h2>
-    <p>Этот проект лицензируется в соответствии с <a href="LICENSE">лицензией MIT</a>.</p>
+    <p><a href="https://github.com/Daler2304">Daler Sirozhidinov</a></p>
 </body>
 </html>
